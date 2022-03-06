@@ -2,6 +2,8 @@
 
 ## Cargo: Analista de Sistema de informação.
 
+### Remuneração: R$ 5.500,00
+
 ### Vagas: 2
 
 #### isenção: 08/03/2022 à 10/03/2022.
