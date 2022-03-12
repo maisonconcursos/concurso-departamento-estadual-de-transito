@@ -1,26 +1,55 @@
-# Concurso Departamento Estadual de Trânsito do Amazonas
+# Concurso Público Departamento Estadual de Trânsito do Amazonas - DETRAN-AM - 2022
+## IBFC - 183 vagas + Cadastro de reserva
+---
+### Cargos de nível médio - 60 vagas.
+### Cargos de nível superior - 123 vagas.
+---
 
-## Cargo: Analista de Sistema de informação.
-
+### Cargo: Analista de Sistema de informação.
 ### Remuneração: R$ 5.500,00
-
 ### Vagas: 2
-
-#### isenção: 08/03/2022 à 10/03/2022.
-#### Inscrição: 08/03/2022 à 06/04/2022.
-#### Locais de Prova: 09/05/2022.
-#### Isenção:
+#### Banca:IBFC
+---
+#### Isenção: 08/03/2022 à 10/03/2022.
+#### Resultado isenção: 25/03/2022
+#### Isenção:Lei Estadual nº 4.988/2019
 * [ ] Sim.
 * [ ] Não.
 ---
-#### Prova: 15/05/2022.
+#### Inscrição: 08/03/2022 à 06/04/2022.
+---
+#### Locais de Prova: 09/05/2022.
+---
+#### Prova Objetiva de múltipla escolha: 15/05/2022. 04 horas
+#### Prova discursiva: 15/05/2022.
+#### Prova de títulos: 25/04/2022 até às 16h do dia 27/04/2022
 #### Gabarito: 15/05/2022.
 ---
-
 ##### Resultado preliminar das provas: 06/06/2022
 ##### Resultado preliminar do concurso: 24/06/2022
 ###### Resultado final do concurso: 30/06/2022
 ---
+![image](https://user-images.githubusercontent.com/100721117/158035725-66c470a3-e207-4b60-8706-813bd5f396ac.png)
+---
+![image](https://user-images.githubusercontent.com/100721117/158035777-d79f0b0f-e99b-4302-b92f-9d86b9ac92cb.png)
+![image](https://user-images.githubusercontent.com/100721117/158035818-a74d67cf-d86d-468f-a4f8-61819337b029.png)
+---
+🖋️ caneta esferográfica de tinta preta ou azul, de material transparente
+
+![image](https://user-images.githubusercontent.com/100721117/158035887-f31ca1f7-768e-4948-a9d6-cb80cc04506a.png)
+
+### Conteúdo programático
+![image](https://user-images.githubusercontent.com/100721117/158036247-0ce75589-da95-4884-a5c4-e99ce75e5190.png)
+![image](https://user-images.githubusercontent.com/100721117/158036252-54c1b4eb-bbb0-4657-9860-c9862e0bf62d.png)
+![image](https://user-images.githubusercontent.com/100721117/158036264-057c1e7b-53b1-4b88-a887-658ac64cd8f9.png)
+![image](https://user-images.githubusercontent.com/100721117/158036270-6920097a-4bc3-4fdd-816e-b77acf9054b6.png)
+![image](https://user-images.githubusercontent.com/100721117/158036297-3bd89316-c1c0-4a63-aa32-c09c48adead8.png)
+![image](https://user-images.githubusercontent.com/100721117/158036307-849b355b-457c-4c93-9645-a3ebf4b14440.png)
+---
+#### Atribuição do cargo:
+![image](https://user-images.githubusercontent.com/100721117/158036361-6f3af3fe-cb21-431d-bfdc-c801d74de8e2.png)
+---
+
 
 * [ ] Engenharia de Software: Ciclo de vida de software.
 * [ ] Análise de requisitos funcionais e não-funcionais.
