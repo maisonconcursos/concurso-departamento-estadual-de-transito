@@ -115,4 +115,8 @@ Referências:
 * [ ] Andrew S. Redes de computadores. Brasil, Elsevier, 2003.
 * [ ] UM GUIA DO CONHECIMENTO EM GERENCIAMENTO DE PROJETOS (GUIA PMBOK®). N.p., Saraiva Educação S.A., 2017.
 
+#### Cronograma
+![image](https://user-images.githubusercontent.com/100721117/158037011-b4e7555d-e8e3-4e7d-9f57-838df7f0c781.png)
+
+
 
