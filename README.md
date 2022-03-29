@@ -1,11 +1,11 @@
 # Concurso Público Departamento Estadual de Trânsito do Amazonas - DETRAN-AM - 2022
+## Cargo: [Analista de Sistema de informação.](https://www.ibfc.org.br/concurso/concurso_selecionado/390)
 ## IBFC - 183 vagas + Cadastro de reserva
 ---
 ### Cargos de nível médio - 60 vagas.
 ### Cargos de nível superior - 123 vagas.
 ---
 
-### Cargo: Analista de Sistema de informação.
 ### Remuneração: R$ 5.500,00
 ### Vagas: 2
 #### Banca:IBFC
