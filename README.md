@@ -118,5 +118,9 @@ Referências:
 #### Cronograma
 ![image](https://user-images.githubusercontent.com/100721117/158037011-b4e7555d-e8e3-4e7d-9f57-838df7f0c781.png)
 
+#### Resultado da prova objetiva
+![Resultado definitivo detran](https://user-images.githubusercontent.com/100721117/172472485-57847e90-873f-4b83-94c4-2c4191afc599.png)
+
+
 
 
